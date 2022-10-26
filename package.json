@@ -1,4 +1,5 @@
 {
+	"homepage": "https://habr.vercel.app/",
 	"name": "habr",
 	"version": "1.0.0",
 	"description": "Habr",
